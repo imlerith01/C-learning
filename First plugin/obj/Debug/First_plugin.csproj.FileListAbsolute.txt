@@ -1,0 +1,41 @@
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\First plugin.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\First plugin.pdb
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\RevitAPIUI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\AdWindows.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\RevitAddInUtility.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\APIInterop.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\UIFramework.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\AddInManager.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\RevitUIAPI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\DesktopMFCAPI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\APIUIAPI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\RevitMFCAPI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\EssentialsUIAPI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\DetailUIAPI.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\UIFrameworkServices.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\CompositionServices.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\RevitAPIUI.xml
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\RevitAddInUtility.xml
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\First_plugin.csproj.AssemblyReference.cache
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\First_plugin.csproj.CoreCompileInputs.cache
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\First_pl.88904DD7.Up2Date
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\First plugin.dll
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\First plugin.pdb

@@ -1,0 +1,16 @@
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\FirstPlugin.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\FirstPlugin.pdb
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.csproj.AssemblyReference.cache
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.csproj.CoreCompileInputs.cache
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.dll
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.pdb
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.csproj.GenerateResource.cache
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.wall_counter.resources
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.Properties.Resources.resources
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.Sheetcreator.SheetForm.resources
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.RoomsToFloors.FromRoomsForm.resources
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.WarningsManager.WarningManagerForm.resources
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\ReaLTaiizor.dll
+C:\Users\dvoracek\source\repos\First plugin\bin\Debug\ReaLTaiizor.xml
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlu.95A6687C.Up2Date
+C:\Users\dvoracek\source\repos\First plugin\obj\Debug\FirstPlugin.WarningsManager.Form1.resources
