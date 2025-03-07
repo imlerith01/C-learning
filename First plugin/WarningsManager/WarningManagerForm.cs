@@ -32,13 +32,6 @@ namespace FirstPlugin.WarningsManager
         {
         
         }
-
-        private void CancelButton_Click(object sender, EventArgs e)
-        {
-            this.DialogResult = DialogResult.Cancel;
-            Close();
-        }
-
         public void WarningManagerForm_Load(object sender, EventArgs e)
         {
             Warnings = Doc.GetWarnings();
@@ -69,7 +62,7 @@ namespace FirstPlugin.WarningsManager
                     
                     WarningNumberListBox.Items.Add(failureString);
                     SelectedWarningTypes.Add(failureMessage);
-                    poisonListView1.Items.Add(failureString);
+                    
                 }
             }
         }
@@ -273,6 +266,12 @@ namespace FirstPlugin.WarningsManager
             {
                 TaskDialog.Show("Upozornění", "Vyber alespoň 1 upozornění");
             }
+            Close();
+        }
+
+        private void CancelButton_Click_1(object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.Cancel;
             Close();
         }
     }

@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(WarningManagerForm));
-            this.CancelButton = new System.Windows.Forms.Button();
             this.SectionBoxButton = new System.Windows.Forms.Button();
             this.IsolateInViewButton = new System.Windows.Forms.Button();
             this.WarningNumberListBox = new System.Windows.Forms.CheckedListBox();
@@ -38,23 +37,13 @@
             this.UnselectAllButton = new System.Windows.Forms.Button();
             this.FailingElement1 = new System.Windows.Forms.TextBox();
             this.FailingElement2 = new System.Windows.Forms.TextBox();
-            this.SelectElementsInModelButton = new System.Windows.Forms.Button();
             this.warningsCounter = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.poisonListView1 = new ReaLTaiizor.Controls.PoisonListView();
+            this.SelectInModelButton = new System.Windows.Forms.Button();
+            this.CancelButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // CancelButton
-            // 
-            this.CancelButton.Location = new System.Drawing.Point(786, 379);
-            this.CancelButton.Name = "CancelButton";
-            this.CancelButton.Size = new System.Drawing.Size(103, 39);
-            this.CancelButton.TabIndex = 0;
-            this.CancelButton.Text = "Zrušit";
-            this.CancelButton.UseVisualStyleBackColor = true;
-            this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click);
             // 
             // SectionBoxButton
             // 
@@ -137,16 +126,6 @@
             this.FailingElement2.TabIndex = 14;
             this.FailingElement2.Tag = "";
             // 
-            // SelectElementsInModelButton
-            // 
-            this.SelectElementsInModelButton.Location = new System.Drawing.Point(895, 379);
-            this.SelectElementsInModelButton.Name = "SelectElementsInModelButton";
-            this.SelectElementsInModelButton.Size = new System.Drawing.Size(103, 39);
-            this.SelectElementsInModelButton.TabIndex = 1;
-            this.SelectElementsInModelButton.Text = "Vybrat označené prvky v modelu";
-            this.SelectElementsInModelButton.UseVisualStyleBackColor = true;
-            this.SelectElementsInModelButton.Click += new System.EventHandler(this.SelectElementsInModelButton_Click);
-            // 
             // warningsCounter
             // 
             this.warningsCounter.AutoSize = true;
@@ -183,22 +162,25 @@
             this.label1.TabIndex = 15;
             this.label1.Text = "Typy upozornění";
             // 
-            // poisonListView1
+            // SelectInModelButton
             // 
-            this.poisonListView1.CheckBoxes = true;
-            this.poisonListView1.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.poisonListView1.FullRowSelect = true;
-            this.poisonListView1.GridLines = true;
-            this.poisonListView1.Location = new System.Drawing.Point(830, 36);
-            this.poisonListView1.Name = "poisonListView1";
-            this.poisonListView1.OwnerDraw = true;
-            this.poisonListView1.ShowGroups = false;
-            this.poisonListView1.Size = new System.Drawing.Size(383, 325);
-            this.poisonListView1.TabIndex = 47;
-            this.poisonListView1.Theme = ReaLTaiizor.Enum.Poison.ThemeStyle.Light;
-            this.poisonListView1.UseCompatibleStateImageBehavior = false;
-            this.poisonListView1.UseSelectable = true;
-            this.poisonListView1.View = System.Windows.Forms.View.List;
+            this.SelectInModelButton.Location = new System.Drawing.Point(895, 379);
+            this.SelectInModelButton.Name = "SelectInModelButton";
+            this.SelectInModelButton.Size = new System.Drawing.Size(103, 39);
+            this.SelectInModelButton.TabIndex = 1;
+            this.SelectInModelButton.Text = "Vybrat prvky v modelu";
+            this.SelectInModelButton.UseVisualStyleBackColor = true;
+            this.SelectInModelButton.Click += new System.EventHandler(this.SelectAllButton_Click);
+            // 
+            // CancelButton
+            // 
+            this.CancelButton.Location = new System.Drawing.Point(786, 379);
+            this.CancelButton.Name = "CancelButton";
+            this.CancelButton.Size = new System.Drawing.Size(103, 39);
+            this.CancelButton.TabIndex = 1;
+            this.CancelButton.Text = "Zrušit";
+            this.CancelButton.UseVisualStyleBackColor = true;
+            this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click_1);
             // 
             // WarningManagerForm
             // 
@@ -206,7 +188,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(1225, 430);
-            this.Controls.Add(this.poisonListView1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
@@ -215,12 +196,12 @@
             this.Controls.Add(this.FailingElement1);
             this.Controls.Add(this.WarningDescriptionListBox);
             this.Controls.Add(this.WarningNumberListBox);
+            this.Controls.Add(this.CancelButton);
             this.Controls.Add(this.IsolateInViewButton);
-            this.Controls.Add(this.SelectElementsInModelButton);
+            this.Controls.Add(this.SelectInModelButton);
             this.Controls.Add(this.SectionBoxButton);
             this.Controls.Add(this.UnselectAllButton);
             this.Controls.Add(this.SelectAllButton);
-            this.Controls.Add(this.CancelButton);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "WarningManagerForm";
@@ -234,8 +215,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button CancelButton;
         private System.Windows.Forms.Button SectionBoxButton;
         private System.Windows.Forms.Button IsolateInViewButton;
         private System.Windows.Forms.CheckedListBox WarningNumberListBox;
@@ -244,11 +223,11 @@
         private System.Windows.Forms.Button UnselectAllButton;
         private System.Windows.Forms.TextBox FailingElement1;
         private System.Windows.Forms.TextBox FailingElement2;
-        private System.Windows.Forms.Button SelectElementsInModelButton;
         private System.Windows.Forms.Label warningsCounter;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;
-        private ReaLTaiizor.Controls.PoisonListView poisonListView1;
+        private System.Windows.Forms.Button SelectInModelButton;
+        private System.Windows.Forms.Button CancelButton;
     }
 }
