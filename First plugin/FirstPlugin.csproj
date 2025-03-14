@@ -58,6 +58,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LinkedDwgManager\DwgManager.cs" />
+    <Compile Include="LinkedDwgManager\DwgManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LinkedDwgManager\DwgManagerForm.Designer.cs">
+      <DependentUpon>DwgManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Links\RevitLinksManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Links\RevitLinksManagerForm.Designer.cs">
+      <DependentUpon>RevitLinksManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Links\RevitLinksManager.cs" />
     <Compile Include="RoomsToFloors\FromRoomsForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +115,12 @@
     <Compile Include="WarningsManager\WarningsManager.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="LinkedDwgManager\DwgManagerForm.resx">
+      <DependentUpon>DwgManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Links\RevitLinksManagerForm.resx">
+      <DependentUpon>RevitLinksManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="RoomsToFloors\FromRoomsForm.resx">
       <DependentUpon>FromRoomsForm.cs</DependentUpon>
     </EmbeddedResource>
