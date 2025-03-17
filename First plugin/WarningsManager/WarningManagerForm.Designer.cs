@@ -73,6 +73,7 @@
             this.WarningNumberListBox.ScrollAlwaysVisible = true;
             this.WarningNumberListBox.Size = new System.Drawing.Size(309, 364);
             this.WarningNumberListBox.TabIndex = 10;
+            this.WarningNumberListBox.ThreeDCheckBoxes = true;
             this.WarningNumberListBox.SelectedIndexChanged += new System.EventHandler(this.WarningNumberListBox_SelectedIndexChanged);
             // 
             // WarningDescriptionListBox

@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\links\\revitlinksmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:links\\revitlinksmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\warningsmanager\\warningmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:warningsmanager\\warningmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\links\\revitlinksmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:links\\revitlinksmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\links\\revitlinksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:links\\revitlinksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\linkeddwgmanager\\dwgmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:linkeddwgmanager\\dwgmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,75 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RevitLinksManagerForm.cs",
-              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\Links\\RevitLinksManagerForm.cs",
-              "RelativeDocumentMoniker": "Links\\RevitLinksManagerForm.cs",
-              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\Links\\RevitLinksManagerForm.cs",
-              "RelativeToolTip": "Links\\RevitLinksManagerForm.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:16:45.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RevitLinksManagerForm.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\Links\\RevitLinksManagerForm.cs",
-              "RelativeDocumentMoniker": "Links\\RevitLinksManagerForm.cs",
-              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\Links\\RevitLinksManagerForm.cs [N\u00E1vrh]",
-              "RelativeToolTip": "Links\\RevitLinksManagerForm.cs [N\u00E1vrh]",
+              "Title": "WarningManagerForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\WarningsManager\\WarningManagerForm.cs",
+              "RelativeDocumentMoniker": "WarningsManager\\WarningManagerForm.cs",
+              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\WarningsManager\\WarningManagerForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "WarningsManager\\WarningManagerForm.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:12:07.818Z",
+              "WhenOpened": "2025-03-14T13:40:49.33Z",
               "EditorCaption": " [N\u00E1vrh]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RevitLinksManager.cs",
-              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\Links\\RevitLinksManager.cs",
-              "RelativeDocumentMoniker": "Links\\RevitLinksManager.cs",
-              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\Links\\RevitLinksManager.cs",
-              "RelativeToolTip": "Links\\RevitLinksManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:11:48.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DwgManager.cs",
-              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManager.cs",
-              "RelativeDocumentMoniker": "LinkedDwgManager\\DwgManager.cs",
-              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManager.cs",
-              "RelativeToolTip": "LinkedDwgManager\\DwgManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T10:03:23.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DwgManagerForm.cs",
-              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManagerForm.cs",
-              "RelativeDocumentMoniker": "LinkedDwgManager\\DwgManagerForm.cs",
-              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManagerForm.cs",
-              "RelativeToolTip": "LinkedDwgManager\\DwgManagerForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T10:11:02.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DwgManagerForm.cs [N\u00E1vrh]",
               "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManagerForm.cs",
               "RelativeDocumentMoniker": "LinkedDwgManager\\DwgManagerForm.cs",
