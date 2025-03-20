@@ -31,7 +31,10 @@ namespace FirstPlugin.LinkedDwgManager
             Doc = doc;
             DwgInstances = new List<ImportInstance>();
             FilteredElementCollector collector = new FilteredElementCollector(doc);
-            DwgInstances = collector.OfClass(typeof(ImportInstance)).Cast<ImportInstance>().ToList();
+            DwgInstances = collector
+                .OfClass(typeof(ImportInstance))
+                .Cast<ImportInstance>()
+                .ToList();
 
             foreach (ImportInstance dwg in DwgInstances)
             {

@@ -32,3 +32,4 @@ C:\Users\dvoracek\source\repos\C-learning\First plugin\obj\Debug\FirstPlugin.dll
 C:\Users\dvoracek\source\repos\C-learning\First plugin\obj\Debug\FirstPlugin.pdb
 C:\Users\dvoracek\source\repos\C-learning\First plugin\obj\Debug\FirstPlugin.LinkedDwgManager.DwgManagerForm.resources
 C:\Users\dvoracek\source\repos\C-learning\First plugin\obj\Debug\FirstPlugin.Links.RevitLinksManagerForm.resources
+C:\Users\dvoracek\source\repos\C-learning\First plugin\obj\Debug\FirstPlugin.DoorTagsManager.DoorTagsForm.resources

@@ -58,6 +58,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DoorTagsManager\DoorTags.cs" />
+    <Compile Include="DoorTagsManager\DoorTagsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoorTagsManager\DoorTagsForm.Designer.cs">
+      <DependentUpon>DoorTagsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="LinkedDwgManager\DwgManager.cs" />
     <Compile Include="LinkedDwgManager\DwgManagerForm.cs">
       <SubType>Form</SubType>
@@ -115,6 +122,9 @@
     <Compile Include="WarningsManager\WarningsManager.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="DoorTagsManager\DoorTagsForm.resx">
+      <DependentUpon>DoorTagsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LinkedDwgManager\DwgManagerForm.resx">
       <DependentUpon>DwgManagerForm.cs</DependentUpon>
     </EmbeddedResource>

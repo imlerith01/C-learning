@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\warningsmanager\\warningmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:warningsmanager\\warningmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\doortagsmanager\\doortagsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:doortagsmanager\\doortagsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\doortagsmanager\\doortags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:doortagsmanager\\doortags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|c:\\users\\dvoracek\\source\\repos\\c-learning\\first plugin\\linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:linkeddwgmanager\\dwgmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\doortagsmanager\\doortagsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD37D104-0F75-4D04-95DF-6BD19126F764}|FirstPlugin.csproj|solutionrelative:doortagsmanager\\doortagsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WarningManagerForm.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\WarningsManager\\WarningManagerForm.cs",
-              "RelativeDocumentMoniker": "WarningsManager\\WarningManagerForm.cs",
-              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\WarningsManager\\WarningManagerForm.cs [N\u00E1vrh]*",
-              "RelativeToolTip": "WarningsManager\\WarningManagerForm.cs [N\u00E1vrh]*",
+              "DocumentIndex": 2,
+              "Title": "DwgManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManagerForm.cs",
+              "RelativeDocumentMoniker": "LinkedDwgManager\\DwgManagerForm.cs",
+              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManagerForm.cs",
+              "RelativeToolTip": "LinkedDwgManager\\DwgManagerForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:40:49.33Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2025-03-19T12:16:35.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DwgManagerForm.cs [N\u00E1vrh]",
               "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManagerForm.cs",
               "RelativeDocumentMoniker": "LinkedDwgManager\\DwgManagerForm.cs",
               "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\LinkedDwgManager\\DwgManagerForm.cs [N\u00E1vrh]",
               "RelativeToolTip": "LinkedDwgManager\\DwgManagerForm.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:12:33.721Z",
+              "WhenOpened": "2025-03-19T12:16:34.077Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorTags.cs",
+              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\DoorTagsManager\\DoorTags.cs",
+              "RelativeDocumentMoniker": "DoorTagsManager\\DoorTags.cs",
+              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\DoorTagsManager\\DoorTags.cs",
+              "RelativeToolTip": "DoorTagsManager\\DoorTags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:35:41.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoorTagsForm.cs",
+              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\DoorTagsManager\\DoorTagsForm.cs",
+              "RelativeDocumentMoniker": "DoorTagsManager\\DoorTagsForm.cs",
+              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\DoorTagsManager\\DoorTagsForm.cs*",
+              "RelativeToolTip": "DoorTagsManager\\DoorTagsForm.cs*",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAQwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:41:57.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoorTagsForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\DoorTagsManager\\DoorTagsForm.cs",
+              "RelativeDocumentMoniker": "DoorTagsManager\\DoorTagsForm.cs",
+              "ToolTip": "C:\\Users\\dvoracek\\source\\repos\\C-learning\\First plugin\\DoorTagsManager\\DoorTagsForm.cs [N\u00E1vrh]*",
+              "RelativeToolTip": "DoorTagsManager\\DoorTagsForm.cs [N\u00E1vrh]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:40:00.173Z",
               "EditorCaption": " [N\u00E1vrh]"
             }
           ]
