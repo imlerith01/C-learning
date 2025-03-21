@@ -171,6 +171,7 @@ namespace FirstPlugin.DoorTagsManager
                         tag.LeaderEndCondition = LeaderEndCondition.Free;
                         tag.SetLeaderEnd(reference, leaderLocation);
 
+                        //test test test
                     }
                 }
                 transaction.Commit();
